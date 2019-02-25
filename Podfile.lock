@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - Bottomsheet (1.4.0)
+  - Refreshable (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.5)
+  - Bottomsheet (from `https://github.com/Slowhand0309/Bottomsheet.git`, branch `feature/support-swift4_2`)
+  - Refreshable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Refreshable
+
+EXTERNAL SOURCES:
+  Bottomsheet:
+    :branch: feature/support-swift4_2
+    :git: https://github.com/Slowhand0309/Bottomsheet.git
+
+CHECKOUT OPTIONS:
+  Bottomsheet:
+    :commit: 19d60cbf63a3f8d89e8544b871cbb24d3131c3c2
+    :git: https://github.com/Slowhand0309/Bottomsheet.git
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  Bottomsheet: 4431455983afa08e863132b0f837fc688d30d004
+  Refreshable: 0f76b6d198178e6cd2823a553fbf4e84a3dba527
+
+PODFILE CHECKSUM: d399973e06c2f60f10ba959467ba27e619bcfe2a
+
+COCOAPODS: 1.5.3
